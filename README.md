@@ -74,3 +74,4 @@ O banco de dados **SQLite** (`usuarios.db`) contém uma única tabela chamada `u
 
 **Nota de Segurança:** A coluna **`senha`** armazena o hash criptografado da senha. Em nenhum momento a senha original em texto puro é salva no banco de dados.
 
+...
